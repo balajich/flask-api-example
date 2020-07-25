@@ -6,4 +6,4 @@ flask run
 
 
 # CURL
-curl -i -v -H "Content-Type: application/json" -X POST -d "{\"message\":\"I hate  roads and windows curl utility\"}" http://localhost:5000/foo
+curl -i -v -H "Content-Type: application/json" -X POST -d "{\"message\":\"I hate  roads and windows curl utility\"}" http://localhost:5000/complaint
